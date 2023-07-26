@@ -1,0 +1,25 @@
+#header1 {
+color: darkorchid;
+font-family: 'Courier New', Courier, monospace;
+}
+
+#header2 {
+color: black;
+font-family: 'Courier New', Courier, monospace;
+}
+
+#header3 {
+    color: brown;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#content {
+    color: chartreuse;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#li {
+color: aquamarine;
+font-family:'Times New Roman', Times, serif
+
+}
